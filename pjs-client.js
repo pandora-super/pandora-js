@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        pandora-js
 // @namespace   Violentmonkey Scripts
-// @match       https://compartner.crm.huawei.com/finaltest/
+// @match       https://compa*r.crm.h*i.com/finaltest/
 // @grant       none
 // @version     1.0
 // @author      -
